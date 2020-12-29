@@ -1,0 +1,6 @@
+﻿  循环双向链表测试.c
+d:\vs2015\c_projet\list\list\循环双向链表测试.c(65): warning C4133: “=”: 从“DLinkListNode *”到“Person *”的类型不兼容
+d:\vs2015\c_projet\list\list\循环双向链表测试.c(87): warning C4133: “=”: 从“DLinkListNode *”到“Person *”的类型不兼容
+d:\vs2015\c_projet\list\list\循环双向链表测试.c(118): warning C4013: “system”未定义；假设外部返回 int
+  List.vcxproj -> D:\vs2015\c_projet\List\Debug\List.exe
+  List.vcxproj -> D:\vs2015\c_projet\List\Debug\List.pdb (Full PDB)
